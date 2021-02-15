@@ -1,4 +1,5 @@
 # Docker Demo
+`npm install`
 
 Build steps 
   `docker build -t <username>/<reponame>:<version> .`
